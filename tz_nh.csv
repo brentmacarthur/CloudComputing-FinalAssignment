@@ -1,0 +1,244 @@
+1,'A','Alpha Time Zone','Military',1
+2,'ACDT','Australian Central Daylight Time','Australia',10.5
+3,'ACST','Australian Central Standard Time','Australia',9.5
+4,'ACT','Acre Time','South America',-5
+5,'ACT','Australian Central Time','Australia',9.5
+6,'ACWST','Australian Central Western Standard Time','Australia',8.75
+7,'ADT','Arabia Daylight Time','Asia',4
+8,'ADT','Atlantic Daylight Time','North America',-3
+9,'AEDT','Australian Eastern Daylight Time','Australia',11
+10,'AEST','Australian Eastern Standard Time','Australia',10
+11,'AET','Australian Eastern Time','Australia',10
+12,'AFT','Afghanistan Time','Asia',4.5
+13,'AKDT','Alaska Daylight Time','North America',-8
+14,'AKST','Alaska Standard Time','North America',-9
+15,'ALMT','Alma-Ata Time','Asia',6
+16,'AMST','Amazon Summer Time','South America',-3
+17,'AMST','Armenia Summer Time','Asia',5
+18,'AMT','Amazon Time','South America',-4
+19,'AMT','Armenia Time','Asia',4
+20,'ANAST','Anadyr Summer Time','Asia',12
+21,'ANAT','Anadyr Time','Asia',12
+22,'AoE','Anywhere on Earth','Pacific',-12
+23,'AQTT','Aqtobe Time','Asia',5
+24,'ART','Argentina Time','Antarctica',-3
+25,'AST','Arabia Standard Time','Asia',3
+26,'AST','Atlantic Standard Time','North America',-4
+27,'AT','Atlantic Time','North America',-4
+28,'AWDT','Australian Western Daylight Time','Australia',9
+29,'AWST','Australian Western Standard Time','Australia',8
+30,'AZOST','Azores Summer Time','Atlantic',0
+31,'AZOT','Azores Time','Atlantic',-1
+32,'AZST','Azerbaijan Summer Time','Asia',5
+33,'AZT','Azerbaijan Time','Asia',4
+34,'B','Bravo Time Zone','Military',2
+35,'BNT','Brunei Darussalam Time','Asia',8
+36,'BOT','Bolivia Time','South America',-4
+37,'BRST','Bras�lia Summer Time','South America',-2
+38,'BRT','Bras�lia Time','South America',-3
+39,'BST','Bangladesh Standard Time','Asia',6
+40,'BST','Bougainville Standard Time','Pacific',11
+41,'BST','British Summer Time','Europe',1
+42,'BTT','Bhutan Time','Asia',6
+43,'C','Charlie Time Zone','Military',3
+44,'CAST','Casey Time','Antarctica',8
+45,'CAT','Central Africa Time','Africa',2
+46,'CCT','Cocos Islands Time','Indian Ocean',6.5
+47,'CDT','Central Daylight Time','North America',-5
+48,'CDT','Cuba Daylight Time','Caribbean',-4
+49,'CEST','Central European Summer Time','Europe',2
+50,'CET','Central European Time','Europe',1
+51,'CHADT','Chatham Island Daylight Time','Pacific',13.75
+52,'CHAST','Chatham Island Standard Time','Pacific',12.75
+53,'CHOST','Choibalsan Summer Time','Asia',9
+54,'CHOT','Choibalsan Time','Asia',8
+55,'ChST','Chamorro Standard Time','Pacific',10
+56,'CHUT','Chuuk Time','Pacific',10
+57,'CIDST','Cayman Islands Daylight Saving Time','Caribbean',-4
+58,'CIST','Cayman Islands Standard Time','Caribbean',-5
+59,'CKT','Cook Island Time','Pacific',-10
+60,'CLST','Chile Summer Time','South America',-3
+61,'CLT','Chile Standard Time','South America',-4
+62,'COT','Colombia Time','South America',-5
+63,'CST','Central Standard Time','North America',-6
+64,'CST','China Standard Time','Asia',8
+65,'CST','Cuba Standard Time','Caribbean',-5
+66,'CT','Central Time','North America',-6
+67,'CVT','Cape Verde Time','Africa',-1
+68,'CXT','Christmas Island Time','Australia',7
+69,'D','Delta Time Zone','Military',4
+70,'DAVT','Davis Time','Antarctica',7
+71,'DDUT','Dumont-d'Urville Time','Antarctica',10
+72,'E','Echo Time Zone','Military',5
+73,'EASST','Easter Island Summer Time','Pacific',-5
+74,'EAST','Easter Island Standard Time','Pacific',-6
+75,'EAT','Eastern Africa Time','Africa',3
+76,'ECT','Ecuador Time','South America',-5
+77,'EDT','Eastern Daylight Time','North America',-4
+78,'EEST','Eastern European Summer Time','Europe',3
+79,'EET','Eastern European Time','Europe',2
+80,'EGST','Eastern Greenland Summer Time','North America',0
+81,'EGT','East Greenland Time','North America',-1
+82,'EST','Eastern Standard Time','North America',-5
+83,'ET','Eastern Time','North America',-5
+84,'F','Foxtrot Time Zone','Military',6
+85,'FET','Further-Eastern European Time','Europe',3
+86,'FJST','Fiji Summer Time','Pacific',13
+87,'FJT','Fiji Time','Pacific',12
+88,'FKST','Falkland Islands Summer Time','South America',-3
+89,'FKT','Falkland Island Time','South America',-4
+90,'FNT','Fernando de Noronha Time','South America',-2
+91,'G','Golf Time Zone','Military',7
+92,'GALT','Galapagos Time','Pacific',-6
+93,'GAMT','Gambier Time','Pacific',-9
+94,'GET','Georgia Standard Time','Asia',4
+95,'GFT','French Guiana Time','South America',-3
+96,'GILT','Gilbert Island Time','Pacific',12
+97,'GMT','Greenwich Mean Time','Europe',0
+98,'GST','Gulf Standard Time','Asia',4
+99,'GST','South Georgia Time','South America',-2
+100,'GYT','Guyana Time','South America',-4
+101,'H','Hotel Time Zone','Military',8
+102,'HDT','Hawaii-Aleutian Daylight Time','North America',-9
+103,'HKT','Hong Kong Time','Asia',8
+104,'HOVST','Hovd Summer Time','Asia',8
+105,'HOVT','Hovd Time','Asia',7
+106,'HST','Hawaii Standard Time','North America',-10
+107,'I','India Time Zone','Military',9
+108,'ICT','Indochina Time','Asia',7
+109,'IDT','Israel Daylight Time','Asia',3
+110,'IOT','Indian Chagos Time','Indian Ocean',6
+111,'IRDT','Iran Daylight Time','Asia',4.5
+112,'IRKST','Irkutsk Summer Time','Asia',9
+113,'IRKT','Irkutsk Time','Asia',8
+114,'IRST','Iran Standard Time','Asia',3.5
+115,'IST','India Standard Time','Asia',5.5
+116,'IST','Irish Standard Time','Europe',1
+117,'IST','Israel Standard Time','Asia',2
+118,'JST','Japan Standard Time','Asia',9
+119,'K','Kilo Time Zone','Military',10
+120,'KGT','Kyrgyzstan Time','Asia',6
+121,'KOST','Kosrae Time','Pacific',11
+122,'KRAST','Krasnoyarsk Summer Time','Asia',8
+123,'KRAT','Krasnoyarsk Time','Asia',7
+124,'KST','Korea Standard Time','Asia',9
+125,'KUYT','Kuybyshev Time','Europe',4
+126,'L','Lima Time Zone','Military',11
+127,'LHDT','Lord Howe Daylight Time','Australia',11
+128,'LHST','Lord Howe Standard Time','Australia',10.5
+129,'LINT','Line Islands Time','Pacific',14
+130,'M','Mike Time Zone','Military',12
+131,'MAGST','Magadan Summer Time','Asia',12
+132,'MAGT','Magadan Time','Asia',11
+133,'MART','Marquesas Time','Pacific',-9.5
+134,'MAWT','Mawson Time','Antarctica',5
+135,'MDT','Mountain Daylight Time','North America',-6
+136,'MHT','Marshall Islands Time','Pacific',12
+137,'MMT','Myanmar Time','Asia',6.5
+138,'MSD','Moscow Daylight Time','Europe',4
+139,'MSK','Moscow Standard Time','Europe',3
+140,'MST','Mountain Standard Time','North America',-7
+141,'MT','Mountain Time','North America',-7
+142,'MUT','Mauritius Time','Africa',4
+143,'MVT','Maldives Time','Asia',5
+144,'MYT','Malaysia Time','Asia',8
+145,'N','November Time Zone','Military',-1
+146,'NCT','New Caledonia Time','Pacific',11
+147,'NDT','Newfoundland Daylight Time','North America',-2.5
+148,'NFDT','Norfolk Daylight Time','Australia',12
+149,'NFT','Norfolk Time','Australia',11
+150,'NOVST','Novosibirsk Summer Time','Asia',7
+151,'NOVT','Novosibirsk Time','Asia',7
+152,'NPT','Nepal Time','Asia',5.75
+153,'NRT','Nauru Time','Pacific',12
+154,'NST','Newfoundland Standard Time','North America',-3.5
+155,'NUT','Niue Time','Pacific',-11
+156,'NZDT','New Zealand Daylight Time','Pacific',13
+157,'NZST','New Zealand Standard Time','Pacific',12
+158,'O','Oscar Time Zone','Military',-2
+159,'OMSST','Omsk Summer Time','Asia',7
+160,'OMST','Omsk Standard Time','Asia',6
+161,'ORAT','Oral Time','Asia',5
+162,'P','Papa Time Zone','Military',-3
+163,'PDT','Pacific Daylight Time','North America',-7
+164,'PET','Peru Time','South America',-5
+165,'PETST','Kamchatka Summer Time','Asia',12
+166,'PETT','Kamchatka Time','Asia',12
+167,'PGT','Papua New Guinea Time','Pacific',10
+168,'PHOT','Phoenix Island Time','Pacific',13
+169,'PHT','Philippine Time','Asia',8
+170,'PKT','Pakistan Standard Time','Asia',5
+171,'PMDT','Pierre & Miquelon Daylight Time','North America',-2
+172,'PMST','Pierre & Miquelon Standard Time','North America',-3
+173,'PONT','Pohnpei Standard Time','Pacific',11
+174,'PST','Pacific Standard Time','North America',-8
+175,'PST','Pitcairn Standard Time','Pacific',-8
+176,'PT','Pacific Time','North America',-8
+177,'PWT','Palau Time','Pacific',9
+178,'PYST','Paraguay Summer Time','South America',-3
+179,'PYT','Paraguay Time','South America',-4
+180,'PYT','Pyongyang Time','Asia',8.5
+181,'Q','Quebec Time Zone','Military',-4
+182,'QYZT','Qyzylorda Time','Asia',6
+183,'R','Romeo Time Zone','Military',-5
+184,'RET','Reunion Time','Africa',4
+185,'ROTT','Rothera Time','Antarctica',-3
+186,'S','Sierra Time Zone','Military',-6
+187,'SAKT','Sakhalin Time','Asia',11
+188,'SAMT','Samara Time','Europe',4
+189,'SAST','South Africa Standard Time','Africa',2
+190,'SBT','Solomon Islands Time','Pacific',11
+191,'SCT','Seychelles Time','Africa',4
+192,'SGT','Singapore Time','Asia',8
+193,'SRET','Srednekolymsk Time','Asia',11
+194,'SRT','Suriname Time','South America',-3
+195,'SST','Samoa Standard Time','Pacific',-11
+196,'SYOT','Syowa Time','Antarctica',3
+197,'T','Tango Time Zone','Military',-7
+198,'TAHT','Tahiti Time','Pacific',-10
+199,'TFT','French Southern and Antarctic Time','Indian Ocean',5
+200,'TJT','Tajikistan Time','Asia',5
+201,'TKT','Tokelau Time','Pacific',13
+202,'TLT','East Timor Time','Asia',9
+203,'TMT','Turkmenistan Time','Asia',5
+204,'TOST','Tonga Summer Time','Pacific',14
+205,'TOT','Tonga Time','Pacific',13
+206,'TRT','Turkey Time','Asia',3
+207,'TVT','Tuvalu Time','Pacific',12
+208,'U','Uniform Time Zone','Military',-8
+209,'ULAST','Ulaanbaatar Summer Time','Asia',9
+210,'ULAT','Ulaanbaatar Time','Asia',8
+211,'UTC','Coordinated Universal Time','Worldwide',0
+212,'UYST','Uruguay Summer Time','South America',-2
+213,'UYT','Uruguay Time','South America',-3
+214,'UZT','Uzbekistan Time','Asia',5
+215,'V','Victor Time Zone','Military',-9
+216,'VET','Venezuelan Standard Time','South America',-4
+217,'VLAST','Vladivostok Summer Time','Asia',11
+218,'VLAT','Vladivostok Time','Asia',10
+219,'VOST','Vostok Time','Antarctica',6
+220,'VUT','Vanuatu Time','Pacific',11
+221,'W','Whiskey Time Zone','Military',-10
+222,'WAKT','Wake Time','Pacific',12
+223,'WARST','Western Argentine Summer Time','South America',-3
+224,'WAST','West Africa Summer Time','Africa',2
+225,'WAT','West Africa Time','Africa',1
+226,'WEST','Western European Summer Time','Europe',1
+227,'WET','Western European Time','Europe',0
+228,'WFT','Wallis and Futuna Time','Pacific',12
+229,'WGST','Western Greenland Summer Time','North America',-2
+230,'WGT','West Greenland Time','North America',-3
+231,'WIB','Western Indonesian Time','Asia',7
+232,'WIT','Eastern Indonesian Time','Asia',9
+233,'WITA','Central Indonesian Time','Asia',8
+234,'WST','West Samoa Time','Pacific',14
+235,'WST','Western Sahara Summer Time','Africa',1
+236,'WT','Western Sahara Standard Time','Africa',0
+237,'X','X-ray Time Zone','Military',-11
+238,'Y','Yankee Time Zone','Military',-12
+239,'YAKST','Yakutsk Summer Time','Asia',10
+240,'YAKT','Yakutsk Time','Asia',9
+241,'YAPT','Yap Time','Pacific',10
+242,'YEKST','Yekaterinburg Summer Time','Asia',6
+243,'YEKT','Yekaterinburg Time','Asia',5
+244,'Z','Zulu Time Zone','Military',0
