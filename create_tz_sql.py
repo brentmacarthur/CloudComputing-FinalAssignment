@@ -15,3 +15,4 @@ file_r = open(read_file)
 for line in file_r:
     line = line.rstrip()
     print(line)
+file_r.close()
