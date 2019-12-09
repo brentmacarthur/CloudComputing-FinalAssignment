@@ -6,8 +6,11 @@ path = 'D:\\My Documents\\Education\\Cloud Computing\\CloudComputing-FinalAssign
 write_file = os.path.join(path, 'insert_time_zones.sql')
 read_file = os.path.join(path, 'tz_nh.csv')
 
-# with open(path + 'insert_time_zones.sql', 'w') as file_w:
-with open(read_file, 'r') as file_r:
-    for line in file_r:
-        line = line.rstrip()
-        print(line)
+with open(write_file, 'w') as outfile:
+    outfile.write('INSERT INTO time_zones\n')
+    outfile.write(
+        '\t(tz_id,tz_abbreviation,time_zone_name,tz_location,utc_offset)\n')
+    outfile.write('VALUES')
+    with open(read_file, 'r') as infile:
+        for line in infile:
+            outfile.write('\t({}),\n'.format(line.rstrip()))
